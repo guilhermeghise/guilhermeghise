@@ -15,5 +15,3 @@
 <img align="center" alt="css3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" width="40px" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </br></br>
-
-![Snake animation](https://github.com/guilhermeghise/guilhermeghise/blob/output/github-contribuition-grid-snake.svg)

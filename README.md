@@ -1,6 +1,6 @@
-<div align="center">👋 Olá! Meu nome é Guilherme, tenho 25 anos e sou de Canoas, RS/Brasil.</br></br>
+<div align="center">👋 Olá! Meu nome é <strong>Guilherme,</strong> tenho 25 anos e sou de <strong>Canoas, RS/Brasil.</strong></br></br>
 <div align="center">☕ Meus conhecimentos técnicos incluem Javascript, HTML5, CSS, Bootstrap, Wordpress, atualmente estudando Java.</br></br>
-<div align="center">🎓 Estudante de Engenharia de Software na PUCRS, apaixonado por tecnologia e desenvolvimento de software.</br></br>
+<div align="center">🎓 Estudante de <strong>Engenharia de Software na PUCRS</strong>, apaixonado por tecnologia e desenvolvimento de software.</br></br>
 <div align="center">👨‍💻 No meu perfil GitHub, você encontrará projetos, códigos e experimentos relacionados ao meu percurso acadêmico. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades técnicas.</br></br>
 
 

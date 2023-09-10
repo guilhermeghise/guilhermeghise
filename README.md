@@ -14,6 +14,6 @@
 <img align="center" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width />
 <img align="center" alt="css3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" width="40px" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" width="40px" alt="javascript" src="https://icons8.com.br/icon/13679/logo-java-coffee-cup" />
+<img align="center" width="40px" alt="javascript" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
   
   </br></br>

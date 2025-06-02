@@ -15,5 +15,6 @@
 <img align="center" alt="css3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" width="40px" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" width="40px" alt="javascript" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<img align="center" width="40px" alt="swift" src="https://images.icon-icons.com/2699/PNG/512/swift_logo_icon_168770.png" />
   
   </br></br>

@@ -1,4 +1,4 @@
-<div align="center">👋 Olá! Meu nome é <strong>Guilherme Ghise,</strong> e sou de <strong>Canoas, RS/Brasil.</strong></br></br>
+<div align="center">👋 Olá! Meu nome é <strong>Guilherme Ghise,</strong> e sou do <strong>Rio Grande do Sul, /Brasil.</strong></br></br>
 <div align="center">☕ Meus conhecimentos técnicos incluem Java, Javascript e <strong>atualmente estudando Swift</strong>.</br></br>
 <div align="center">🎓 Estudante de <strong>Engenharia de Software na PUCRS</strong>, apaixonado por tecnologia e desenvolvimento de software.</br></br>
 <div align="center">👨‍💻 No meu perfil GitHub, você encontrará projetos, códigos e experimentos relacionados ao meu percurso acadêmico. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades técnicas.</br></br>
